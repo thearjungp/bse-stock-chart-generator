@@ -48,7 +48,7 @@ class Stock extends React.Component
                     y: stockChartYValuesFunction,
                     type: 'scatter',
                     mode: 'lines+markers',
-                    marker: {color: 'red'},
+                    marker: {color: 'green'},
                 },
             ]
 
